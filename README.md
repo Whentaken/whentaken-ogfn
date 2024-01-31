@@ -25,3 +25,6 @@
 
 
 **if you know what to do from now, great. but for people that dont know what to do there will be a youtube video below showing u what to do!**
+
+- 🔴 [how to host ogfn with a custom launcher Part 1](https://www.youtube.com/watch?v=SclVIVe2zFs&t=500s) (how to get in lobby and set everything up)
+- part 2 coming soon
