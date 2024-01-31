@@ -23,12 +23,12 @@
 
 - 🔵 [backend](https://github.com/Lawin0129/LawinServerV2) (lawinserver v2)
 
-  ** PART 2 (GETTING INGAME) **
+  **PART 2 (GETTING INGAME)**
 
   - 📂 [Reboot Launcher](https://discord.gg/reboot)
 
 
-   ** PART 3 (using MM) **
+   **PART 3 (using MM)**
 
   - 📂 [FortMatchMaker](https://github.com/Lawin0129/FortMatchmaker)
  
