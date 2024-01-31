@@ -13,7 +13,7 @@
 
 - :white_check_mark: [RadminVPN](https://www.radmin-vpn.com/) (connect to the servers)
 
-- :white_check_mark: [MongoDB]([https://www.radmin-vpn.com/](https://www.mongodb.com/try/download/enterprise)) (important for the backend also)
+- :white_check_mark: [MongoDB]([https://www.radmin-vpn.com/](https://www.mongodb.com/try/download/enterprise) (important for the backend also)
 
 **DOWNLOAD THE FUN STUFF**
 
