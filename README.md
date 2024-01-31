@@ -23,6 +23,16 @@
 
 - 🔵 [backend](https://github.com/Lawin0129/LawinServerV2) (lawinserver v2)
 
+  ** PART 2 (GETTING INGAME) **
+
+  - 📂 [Reboot Launcher](https://discord.gg/reboot)
+
+
+   ** PART 3 (using MM) **
+
+  - 📂 [FortMatchMaker](https://github.com/Lawin0129/FortMatchmaker)
+ 
+
 
 **if you know what to do from now, great. but for people that dont know what to do there will be a youtube video below showing u what to do!**
 
