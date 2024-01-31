@@ -1,0 +1,19 @@
+C:\Users\nateb\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\project name.exe
+C:\Users\nateb\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\project name.deps.json
+C:\Users\nateb\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\project name.runtimeconfig.json
+C:\Users\nateb\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\project name.dll
+C:\Users\nateb\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\project name.pdb
+C:\Users\nateb\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\INIFileParser.dll
+C:\Users\nateb\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\project name.csproj.AssemblyReference.cache
+C:\Users\nateb\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\nateb\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\project name.csproj.GenerateResource.cache
+C:\Users\nateb\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\project name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nateb\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\project name.AssemblyInfoInputs.cache
+C:\Users\nateb\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\project name.AssemblyInfo.cs
+C:\Users\nateb\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\project name.csproj.CoreCompileInputs.cache
+C:\Users\nateb\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\project name.csproj.CopyComplete
+C:\Users\nateb\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\project name.dll
+C:\Users\nateb\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\refint\project name.dll
+C:\Users\nateb\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\project name.pdb
+C:\Users\nateb\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\project name.genruntimeconfig.cache
+C:\Users\nateb\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\ref\project name.dll
